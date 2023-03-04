@@ -8,6 +8,4 @@ public class PoorlyFormattedClass {
   @Override
   public String toString() {
     System.out.println("Poorly formatted toString method");
-    return "PoorlyFormattedClass{}";
-  }
-}
+    return "PoorlyFormattedClass{}"; }}
